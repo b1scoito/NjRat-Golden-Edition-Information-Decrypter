@@ -1,14 +1,14 @@
 # NjRat-Golden-Edition-Information-Decrypter
-Decrypts whatever you need for, could be either DNS, PORT or VN.
+Decrypts whatever you need for, could be either `DNS`, `PORT` or `VN`.
 
 # Sample Code:
 
 - Horg
-Is the encrypted OK.H
+Is the encrypted `OK.H`
 - Porg
-Is the encrypted OK.P
+Is the encrypted `OK.P`
 - VNorg
-Is the encrypted OK.VN
+Is the encrypted `OK.VN`
 
 ```csharp
 using Microsoft.VisualBasic;
